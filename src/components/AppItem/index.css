@@ -1,0 +1,11 @@
+.list-container {
+  border-color: red;
+  background-color: #ffffff;
+  margin: 10px;
+  border-radius: 10px;
+  padding: 10px;
+}
+.image {
+  height: 70px;
+  width: 60px;
+}
